@@ -56,6 +56,7 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
+| **Smart Farm** | React, Node.js, Express, and Bootstrap | The project simulates an IoT-based agriculture monitoring system |
 | **University Management System** | Java, Spring MVC, JSP, JPA | Full university admin system with student/course management |
 | **SpringCrudProj** | Java,Servlet,Hibernate,Servlet,JSP | Simple application for practice purpose |
 
